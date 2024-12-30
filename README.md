@@ -4,8 +4,7 @@
 ## Features
 * **Authentication**  
 * **Caching network calls locally**
-* **Accessibility :**   
-  - Somalian and Engilish Language 
+ * **Somalian and Engilish Language**
 
 ## File structure
 
